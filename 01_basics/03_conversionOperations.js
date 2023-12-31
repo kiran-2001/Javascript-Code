@@ -41,3 +41,34 @@ console.log(typeof stringNum)
 console.log(stringNum);
 
 
+//  Operations
+
+
+let val = 3
+let negval = -val
+
+console.log(negval)
+
+console.log(2+2)
+console.log(2-2)
+console.log(2*2)
+console.log(2/3)
+console.log(2**3)
+console.log(2%3)
+
+
+let str1= "hello"
+let str2 = " kiran"
+
+let str3= str1 + str2
+console.log(str3)
+
+
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+
+let counter = 100;
+counter++;
+console.log(counter++);
